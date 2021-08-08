@@ -1,6 +1,4 @@
-test.py
-user.py
 venv/
-ips.txt
-user.txt
 info.log
+hosts_ip.txt
+user_login.txt
